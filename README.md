@@ -1,1 +1,1 @@
-# Lecture-Sleep---B961
+Codeforces problem ( B-Lecture-Sleep - B961 )
